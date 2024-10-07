@@ -1,5 +1,11 @@
+import { Button } from '@/components/ui/button'
+
 const Site = () => {
-  return <>123</>
+  return (
+    <div>
+      <Button>Click me</Button>
+    </div>
+  )
 }
 
 export default Site
