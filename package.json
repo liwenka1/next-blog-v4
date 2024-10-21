@@ -1,7 +1,8 @@
 {
-  "name": "next-love",
+  "name": "next-blog-v4",
   "version": "0.1.0",
   "private": true,
+  "packageManager": "pnpm@9.12.1",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
